@@ -1,7 +1,7 @@
-def maxim(a,b):
-    if a<b:
+def minim(a,b):
+    if a>b:
         return b
     else:
         return a
     
-maxim(5,10)
+minim(5,10)
